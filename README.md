@@ -81,7 +81,7 @@ For a complete list of my projects, please visit my [GitHub repositories](https:
 
 ---
 
-## 📄 [View My Resume](https://www.example.com/your_resume.pdf)
+## 📄 [View My Resume](https://drive.google.com/file/d/1uDZdpjMr7inxShVC2rb0EY6KYOU4jRYO/view?usp=sharing)
 
 ---
 
